@@ -1,0 +1,1 @@
+This notebook obtains voting data from the Chilean Chamber of Deputies. This data were analyzed in the paper "Parliamentary roll-call voting as a complex dynamical system: The case of Chile" by Diego Morales-Bader, Ramón D. Castillo, Ralf F. A. Cox, and Carlos Ascencio-Garrido.
